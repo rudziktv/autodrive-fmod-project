@@ -1,0 +1,27 @@
+# Build outputs
+Build/
+Cache/
+
+# User-specific settings
+*.user
+*.lock
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Backup and temporary files
+*.bak
+*.backup
+*.tmp
+
+# Generated audio banks
+*.bank
+
+# Log files
+*.log
+
+# Temps (my own)
+/.user
+/.cache
+/.unsaved
