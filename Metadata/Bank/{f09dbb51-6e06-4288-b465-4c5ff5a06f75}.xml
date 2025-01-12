@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="Bank" id="{f09dbb51-6e06-4288-b465-4c5ff5a06f75}">
+		<property name="name">
+			<value>Volkswagen Golf Mk6</value>
+		</property>
+		<relationship name="folder">
+			<destination>{b646267d-f474-4017-a884-b5d2c5a1d8a3}</destination>
+		</relationship>
+	</object>
+</objects>
